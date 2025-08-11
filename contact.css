@@ -70,6 +70,10 @@ nav ul li:hover ul {
     border: none;
     cursor: pointer;
 }
+ nav ul li a:hover,
+ nav ul li a:focus {
+     color: #00ffff;
+ }
 
 .contact-hero {
     background: #007bff;
